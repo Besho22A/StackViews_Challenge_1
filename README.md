@@ -18,7 +18,7 @@ In this challenge, I practiced building a single screen layout using **UIStackVi
 - No full app logic — just UI building and layout experimentation
 
 ## 📸 Screenshot (iPhone 15)
-![iPhone 15 Screenshot](screenshots.png)
+<img src="Screenshot.png" width="300"/>
 
 ---
 
