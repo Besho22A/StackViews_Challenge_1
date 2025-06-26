@@ -18,9 +18,7 @@ In this challenge, I practiced building a single screen layout using **UIStackVi
 - No full app logic — just UI building and layout experimentation
 
 ## 📸 Screenshot (iPhone 15)
-![iPhone 15 Screenshot](./screenshots.png)
-
-> Make sure to place the screenshot at: `screenshots/iphone15.png` in your repo.
+![iPhone 15 Screenshot](screenshots.png)
 
 ---
 
